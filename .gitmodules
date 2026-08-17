@@ -15,6 +15,3 @@
 [submodule "sviber"]
 	path = sviber
 	url = https://github.com/Desom-fu/sviber.git
-[submodule "sviber_original"]
-	path = sviber_original
-	url = https://github.com/Desom-fu/sviber_original.git
