@@ -287,7 +287,7 @@ which changes both the current time and the visible range by one beat subdivisio
 The mouse wheel navigation works anywhere as long as the mouse is not in a scrollable DOM element.
 
 When the user uses the mouse wheel while holding the <kbd>Ctrl</kbd> key,
-the visible range enlarges (if scrolling up) or shrinks (if scrolling down) without changing the center of the visible range.
+the visible range shrinks (if scrolling up) or enlarges (if scrolling down) without changing the center of the visible range.
 If the enlargement will make the visible range exceed the bounds set by the music,
 change the center so that the visible range is still within bounds.
 
