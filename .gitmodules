@@ -12,3 +12,9 @@
 [submodule "game-unstable"]
 	path = game-unstable
 	url = https://github.com/sunniesnow/sunniesnow.git
+[submodule "sviber"]
+	path = sviber
+	url = https://github.com/Desom-fu/sviber.git
+[submodule "sviber_original"]
+	path = sviber_original
+	url = https://github.com/Desom-fu/sviber_original.git
